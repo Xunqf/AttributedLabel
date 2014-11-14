@@ -1,0 +1,12 @@
+1.使用前请导入
+
+#import<CoreText/CoreText.h>
+#import <QuartzCore/QuartzCore.h>
+
+
+这两个类库。
+
+2.给label设置属性时一定要先给label.text赋值，然后再添加属性。
+
+
+没了。
